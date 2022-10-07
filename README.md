@@ -17,7 +17,9 @@ La libreta ```MODEL_COMP_NEW.ipynb''' implementa un modelo computacional capaz d
 
 Se prueba la efectividad de este modelo comparándola a una regresión logística, la cual es utilizada en la generación de mapas de idoneidad. Se comparan los dos modelos utilizando una ROC, para verificar que modelo nos da la mejor respuesta dado un umbral de selección.
 
-Para poder hacer funcionar el ejemplo es necesario descargar los datos procesados ubicados en: 
+Para poder hacer funcionar el ejemplo es necesario descargar, descomprimir y colocar los .csv contenidos en ```mapas vectorizados uso de suelo del municipio de morelia.zip'''  en la misma carpeta donde se encuentra la libreta ```MODEL_COMP_NEW.ipynb''':
+
+La liga al .zip es: 
 https://drive.google.com/open?id=1fFp29HoNrN8jMc-kim8C-Vwmz_BzDhup&authuser=rlopez%40centrogeo.edu.mx&usp=drive_fs
 
 En caso de tener problemas con el link, favor de mandar un correo a rdglpz@gmail.com
